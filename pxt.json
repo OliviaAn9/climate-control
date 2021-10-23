@@ -1,5 +1,5 @@
 {
-    "name": "climate control",
+    "name": "Operation Climate Control - Level 1 (Penguin)",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -42,7 +42,7 @@
         "#a4839f",
         "#5c406c",
         "#e5cdc4",
-        "#873e23",
+        "#b8bfca",
         "#21130d"
     ]
 }
